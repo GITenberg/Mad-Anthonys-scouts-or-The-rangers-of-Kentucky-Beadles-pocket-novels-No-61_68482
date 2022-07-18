@@ -1,11 +1,16 @@
 _repo: Mad-Anthonys-scouts-or-The-rangers-of-Kentucky-Beadles-pocket-novels-No-61_68482
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68482-h/images/cover.jpg
 creator:
   author:
     agent_name: Rodman, Emerson
     gutenberg_agent_id: '54790'
     url: http://www.gutenberg.org/2009/agents/54790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68482#Mad-Anthonys-scouts-or-The-rangers-of-Kentucky-Beadles-pocket-novels-No-61
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68482'
